@@ -4,6 +4,7 @@ The Code creates simulations of the model, the first code uses the symmetric ver
 The code for asymmetric model as been labelled with an ending "_a", the simulations and the stability is virtually similar to the symmetric version.
 
 A quick outline of the code:
+
 The model is controlled using Reynolds Number, so you can change this factor to get different results.
 
 The code uses ODE45 to do the simulations.
